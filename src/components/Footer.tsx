@@ -20,7 +20,7 @@ const Footer = () => {
                 aria-label="Instagram"
               >
                 <img
-                  src="/src/icons/instagram.png"
+                  src="icons/instagram.png"
                   alt="Instagram"
                   className="w-6 h-6 opacity-60 hover:opacity-100 transition-opacity duration-300"
                 />
@@ -33,7 +33,7 @@ const Footer = () => {
                 aria-label="TikTok"
               >
                 <img
-                  src="/src/icons/tik-tok.png"
+                  src="icons/tik-tok.png"
                   alt="TikTok"
                   className="w-6 h-6 opacity-60 hover:opacity-100 transition-opacity duration-300"
                 />
@@ -46,7 +46,7 @@ const Footer = () => {
                 aria-label="Linktree"
               >
                 <img
-                  src="/src/icons/linktree-logo-icon.png"
+                  src="icons/linktree-logo-icon.png"
                   alt="Linktree"
                   className="w-6 h-6 opacity-60 hover:opacity-100 transition-opacity duration-300"
                 />

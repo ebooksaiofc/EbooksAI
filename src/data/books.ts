@@ -4,7 +4,7 @@ const books: Book[] = [
   {
     id: 1,
     title: "Inteligência Artificial Descomplicada",
-    coverImage: "/src/images/IA.png",
+    coverImage: "images/IA.png",
     description: "Aprenda IA de forma simples e prática.",
     price: "R$ 9,90",
     buyLink: "https://pay.kiwify.com.br/V39QdKe"
@@ -12,7 +12,7 @@ const books: Book[] = [
   {
     id: 2,
     title: "Os 5 Pilares da Saúde",
-    coverImage: "/src/images/5Pilares.png",
+    coverImage: "images/5Pilares.png",
     description: "Equilibre sua mente e corpo.",
     price: "R$ 9,90",
     buyLink: "https://pay.kiwify.com.br/ICs0Nbj"
@@ -20,7 +20,7 @@ const books: Book[] = [
   {
     id: 3,
     title: "O Caminho para o Seu Melhor Eu",
-    coverImage: "/src/images/Potencial.png",
+    coverImage: "images/Potencial.png",
     description: "Transformação Pessoal em Ação.",
     price: "R$ 9,90",
     buyLink: "https://pay.kiwify.com.br/KPkZonk"
@@ -28,7 +28,7 @@ const books: Book[] = [
   {
     id: 4,
     title: "Liberdade Financeira ao Seu Alcance",
-    coverImage: "/src/images/Financa.png",
+    coverImage: "images/Financa.png",
     description: "Guia Prático para Iniciantes",
     price: "R$ 9,90",
     buyLink: "https://pay.kiwify.com.br/qyLiyva"

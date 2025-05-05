@@ -26,7 +26,7 @@ const Header = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <div className="flex items-center gap-2">
           <img
-            src="/src/images/logoEbooksai.png"
+            src="images/logoEbooksai.png"
             alt="Logo eBooks AI"
             className="logo-image"
           />
